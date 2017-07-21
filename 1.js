@@ -1,4 +1,4 @@
-var login = document.getElementById ('quick_email'),
+/*var login = document.getElementById ('quick_email'),
     pass = document.getElementById ('quick_pass'),
     login_btn = document.getElementById ('quick_login_button');
 
@@ -9,3 +9,6 @@ login_btn.onsubmit = function (evt){
     alert (log + "  " pass);
     login_btn.submit();
 }
+*/
+
+alert ("ПРОВЕРКА РАБОТЫ СКРИПТА");
